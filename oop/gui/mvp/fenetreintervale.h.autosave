@@ -1,0 +1,19 @@
+#ifndef FENETREINTERVALE_H
+#define FENETREINTERVALE_H
+
+#include <QMainWindow>
+#include <intervalle.h>
+
+class fenetreIntervale: public QMainWindow
+{
+    Q_OBJECT
+public:
+    fenetreIntervale(const intervalle& interv=intervalle{}, QWidget *parent=nullptr);
+private:
+    intervalle d_intervalle;
+    vue d_vue;
+private slots:
+    void onChangeIntervalle();
+};
+
+#endif // FENETREINTERVALE_H

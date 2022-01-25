@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1585579651 source:c:\users\bur\downloads\tdtableau2d\main.cpp
+	<iostream>
+	"Tableau2D.h"
+
+1585578364 c:\users\bur\downloads\tdtableau2d\tableau2d.h
+
+1585578968 source:c:\users\bur\downloads\tdtableau2d\tableau2d.cpp
+	<iostream>
+	"Tableau2D.h"
+

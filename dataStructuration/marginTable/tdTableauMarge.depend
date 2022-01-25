@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1585503796 source:c:\users\bur\downloads\tdtableaumarge\table.cpp
+	<iostream>
+	"Table.h"
+
+1585272331 c:\users\bur\downloads\tdtableaumarge\table.h
+
+1585504255 source:c:\users\bur\downloads\tdtableaumarge\main.cpp
+	<iostream>
+	"table.h"
+

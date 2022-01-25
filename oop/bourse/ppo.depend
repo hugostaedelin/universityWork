@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1578604378 source:c:\users\pc\téléchargements\ppo\main.cpp
+	"bourse.h"
+	<iostream>
+	<vector>
+
+1578608865 source:c:\users\pc\téléchargements\ppo\bourse.cpp
+	"bourse.h"
+	<iostream>
+	<vector>
+
+1578608975 c:\users\pc\téléchargements\ppo\bourse.h
+	<iostream>
+

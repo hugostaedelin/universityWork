@@ -1,0 +1,6 @@
+#include "fenetreIntervale.h"
+
+fenetreIntervale::fenetreIntervale()
+{
+
+}

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1570654294 source:c:\users\pc\desktop\3.uha-fst\1.informatique\1.algorithmique\2.travaux\tpalgo\main.cpp
+	<vector>
+	<iostream>
+	<ctime>
+	<fstream>
+	<string>
+

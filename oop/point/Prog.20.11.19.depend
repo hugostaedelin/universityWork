@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1574330283 source:c:\users\kiki-\documents\projets code blocks\prog_objet\prog.20.11.19\point.cpp
+	<iostream>
+	"point.h"
+	<math.h>
+	<string>
+
+1575970922 c:\users\kiki-\documents\projets code blocks\prog_objet\prog.20.11.19\point.h
+	<iostream>
+
+1574329919 source:c:\users\kiki-\documents\projets code blocks\prog_objet\prog.20.11.19\main.cpp
+	<iostream>
+	"point.h"
+	<fstream>
+
+1574330408 source:c:\users\kiki-\documents\projets code blocks\prog_objet\prog.20.11.19\calculpoint.cpp
+	<iostream>
+	"point.h"
+	<vector>
+
+1574332364 c:\users\kiki-\documents\projets code blocks\prog_objet\prog.20.11.19\vecteur.h
+	"point.h"
+

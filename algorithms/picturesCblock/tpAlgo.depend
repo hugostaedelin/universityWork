@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1577736204 source:c:\users\bur\downloads\tpalgo\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+
+1578158077 source:c:\users\pc\téléchargements\tpalgo\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+

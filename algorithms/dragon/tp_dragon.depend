@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1572965075 source:c:\users\bur4\downloads\tp_dragon\main.cpp
+	<iostream>
+	<vector>
+	<math.h>
+
+1573041706 source:f:\3.uha-fst\1.informatique\1.algorithmique\2.travaux\tp_dragon\main.cpp
+	<iostream>
+	<vector>
+	<math.h>
+	"graphics.h"
+
+1461226426 f:\3.uha-fst\1.informatique\1.algorithmique\2.travaux\tp_dragon\graphics.h
+
+1572990308 source:d:\3.uha-fst\1.informatique\1.algorithmique\2.travaux\tp_dragon\main.cpp
+	<iostream>
+	<vector>
+	<math.h>
+	"graphics.h"
+
+1461226426 d:\3.uha-fst\1.informatique\1.algorithmique\2.travaux\tp_dragon\graphics.h
+
+1461226436 source:d:\3.uha-fst\1.informatique\1.algorithmique\2.travaux\tp_dragon\winbgi.cpp
+	<windows.h>
+	<stddef.h>
+	<stdio.h>
+	<math.h>
+	"graphics.h"
+
+1461226436 source:f:\3.uha-fst\1.informatique\1.algorithmique\2.travaux\tp_dragon\winbgi.cpp
+	<windows.h>
+	<stddef.h>
+	<stdio.h>
+	<math.h>
+	"graphics.h"
+
+1573048582 source:c:\users\e1901286\downloads\tp_dragon\main.cpp
+	<iostream>
+	<vector>
+	<math.h>
+	"graphics.h"
+
+1461222826 c:\users\e1901286\downloads\tp_dragon\graphics.h
+
+1461222836 source:c:\users\e1901286\downloads\tp_dragon\winbgi.cpp
+	<windows.h>
+	<stddef.h>
+	<stdio.h>
+	<math.h>
+	"graphics.h"
+
+1573049908 source:d:\tp_dragon\main.cpp
+	<iostream>
+	<vector>
+	<math.h>
+	"graphics.h"
+
+1461226426 d:\tp_dragon\graphics.h
+
+1461226436 source:d:\tp_dragon\winbgi.cpp
+	<windows.h>
+	<stddef.h>
+	<stdio.h>
+	<math.h>
+	"graphics.h"
+

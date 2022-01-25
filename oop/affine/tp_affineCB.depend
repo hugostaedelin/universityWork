@@ -1,0 +1,155 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\l2info\downloads\tp_affinecb\main.cpp
+	<iostream>
+
+1574948906 source:c:\users\l2info\downloads\tp_affinecb\point.cpp
+	"point.h"
+	<iostream>
+	<cmath>
+
+1574625870 c:\users\l2info\downloads\tp_affinecb\point.h
+	<iostream>
+
+1575013111 source:c:\users\l2info\downloads\tp_affinecb\mfam.cpp
+	<iostream>
+	"point.h"
+	<vector>
+
+1575013282 source:c:\users\l2info\downloads\tp_affinecb\testtransfoaffine.cpp
+	<iostream>
+	"graphics.h"
+	<cmath>
+	"point.h"
+	"transfoaffine.h"
+
+1574947778 c:\users\l2info\downloads\tp_affinecb\transfoaffine.h
+	"point.h"
+
+1461226426 c:\users\l2info\downloads\tp_affinecb\graphics.h
+
+1574947808 source:c:\users\l2info\downloads\tp_affinecb\transfoaffine.cpp
+	"transfoaffine.h"
+	<iostream>
+	<cmath>
+
+1575013115 source:c:\users\l2info\downloads\tp_affinecb\testpoint.cpp
+	<iostream>
+	<fstream>
+	"point.h"
+
+1461226436 source:c:\users\l2info\downloads\tp_affinecb\winbgi.cpp
+	<windows.h>
+	<stddef.h>
+	<stdio.h>
+	<math.h>
+	"graphics.h"
+
+1574948906 source:c:\users\e1901286\downloads\1.tp_affine_29-11-2019\tp_affinecb\point.cpp
+	"point.h"
+	<iostream>
+	<cmath>
+
+1574625870 c:\users\e1901286\downloads\1.tp_affine_29-11-2019\tp_affinecb\point.h
+	<iostream>
+
+1575017745 source:c:\users\e1901286\downloads\1.tp_affine_29-11-2019\tp_affinecb\testtransfoaffine.cpp
+	<iostream>
+	"graphics.h"
+	<cmath>
+	"point.h"
+	"transfoaffine.h"
+
+1461222826 c:\users\e1901286\downloads\1.tp_affine_29-11-2019\tp_affinecb\graphics.h
+
+1574947778 c:\users\e1901286\downloads\1.tp_affine_29-11-2019\tp_affinecb\transfoaffine.h
+	"point.h"
+
+1574947808 source:c:\users\e1901286\downloads\1.tp_affine_29-11-2019\tp_affinecb\transfoaffine.cpp
+	"transfoaffine.h"
+	<iostream>
+	<cmath>
+
+1461222836 source:c:\users\e1901286\downloads\1.tp_affine_29-11-2019\tp_affinecb\winbgi.cpp
+	<windows.h>
+	<stddef.h>
+	<stdio.h>
+	<math.h>
+	"graphics.h"
+
+1576418025 source:c:\users\bur\desktop\3.tp_affine\tp_affinecb\point.cpp
+	"point.h"
+	<iostream>
+	<cmath>
+
+1576417653 c:\users\bur\desktop\3.tp_affine\tp_affinecb\point.h
+	"transfoaffine.h"
+
+1576418213 source:c:\users\bur\desktop\3.tp_affine\tp_affinecb\testtransfoaffine.cpp
+	<iostream>
+	"graphics.h"
+	<cmath>
+	"point.h"
+	"transfoaffine.h"
+
+1461226426 c:\users\bur\desktop\3.tp_affine\tp_affinecb\graphics.h
+
+1576417890 c:\users\bur\desktop\3.tp_affine\tp_affinecb\transfoaffine.h
+	<iostream>
+	"point.h"
+
+1576415556 source:c:\users\bur\desktop\3.tp_affine\tp_affinecb\transfoaffine.cpp
+	"transfoaffine.h"
+	<iostream>
+	<cmath>
+
+1461226436 source:c:\users\bur\desktop\3.tp_affine\tp_affinecb\winbgi.cpp
+	<windows.h>
+	<stddef.h>
+	<stdio.h>
+	<math.h>
+	"graphics.h"
+
+1576416622 source:c:\users\bur\desktop\3.tp_affine\tp_affinecb\testpoint.cpp
+	<iostream>
+	<fstream>
+	"point.h"
+
+1576589559 source:\\uha.fr\users\e1901286\bureau\3.tp_affine_16-12-2019\tp_affinecb\point.cpp
+	"point.h"
+	"transfoaffine.h"
+	<iostream>
+	<cmath>
+
+1576589649 \\uha.fr\users\e1901286\bureau\3.tp_affine_16-12-2019\tp_affinecb\point.h
+	"transfoaffine.h"
+
+1576594053 \\uha.fr\users\e1901286\bureau\3.tp_affine_16-12-2019\tp_affinecb\transfoaffine.h
+	<iostream>
+	"point.h"
+
+1576589561 source:\\uha.fr\users\e1901286\bureau\3.tp_affine_16-12-2019\tp_affinecb\testpoint.cpp
+	<iostream>
+	<fstream>
+	"point.h"
+
+1576594308 source:\\uha.fr\users\e1901286\bureau\3.tp_affine_16-12-2019\tp_affinecb\testtransfoaffine.cpp
+	<iostream>
+	"graphics.h"
+	<cmath>
+	"point.h"
+	"transfoaffine.h"
+
+1461222826 \\uha.fr\users\e1901286\bureau\3.tp_affine_16-12-2019\tp_affinecb\graphics.h
+
+1576593397 source:\\uha.fr\users\e1901286\bureau\3.tp_affine_16-12-2019\tp_affinecb\transfoaffine.cpp
+	"transfoaffine.h"
+	<iostream>
+	<cmath>
+
+1461222836 source:\\uha.fr\users\e1901286\bureau\3.tp_affine_16-12-2019\tp_affinecb\winbgi.cpp
+	<windows.h>
+	<stddef.h>
+	<stdio.h>
+	<math.h>
+	"graphics.h"
+
